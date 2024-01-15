@@ -1,0 +1,3 @@
+alex,Fenerbahçe
+falcao,Galatasaray
+atiba,Beşiktaş
